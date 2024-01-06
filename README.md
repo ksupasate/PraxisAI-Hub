@@ -17,7 +17,7 @@ Each week, a new project will be added to this repository. Here's a brief overvi
 
 | Week | Project Title | Description | Technologies Used |
 |------|---------------|-------------|-------------------|
-| 1    | [01 - Summarize sentence with Gemeni-Pro](https://github.com/ksupasate/PraxisAI-Hub/blob/main/01_Summarize_sentence_with_Gemeni_Pro.ipynb) | Brief description. | Tech1, Tech2 |
+| 1    | [01 - Summarize sentence with Gemeni-Pro](https://github.com/ksupasate/PraxisAI-Hub/blob/main/01_Summarize_sentence_with_Gemeni_Pro.ipynb) | Using Gemeni-Pro, generative ai api from google, to summarize news or article with text and picture. | Gemeni-Pro, PyTesseract |
 | 2    | [Project Name](Link) | Brief description. | Tech1, Tech2 |
 | ...  | ...           | ...         | ...               |
 
