@@ -17,7 +17,7 @@ Each week, a new project will be added to this repository. Here's a brief overvi
 
 | Week | Project Title | Description | Technologies Used |
 |------|---------------|-------------|-------------------|
-| 1    | [Project Name](Link) | Brief description. | Tech1, Tech2 |
+| 1    | [01 - Summarize sentence with Gemeni-Pro](https://github.com/ksupasate/PraxisAI-Hub/blob/main/01_Summarize_sentence_with_Gemeni_Pro.ipynb) | Brief description. | Tech1, Tech2 |
 | 2    | [Project Name](Link) | Brief description. | Tech1, Tech2 |
 | ...  | ...           | ...         | ...               |
 
@@ -39,9 +39,9 @@ Contributions, suggestions, and feedback are highly welcomed! If you have ideas 
 
 ## Connect
 
-- **GitHub:** [Your GitHub Profile](Your GitHub Link)
-- **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn Link)
+- **GitHub:** [ksupasate](https://github.com/ksupasate)
+- **LinkedIn:** [Supasate Vorathammathorn](https://www.linkedin.com/in/ksupasate)
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [Apache License](LICENSE).
