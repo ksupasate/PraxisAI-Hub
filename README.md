@@ -18,8 +18,8 @@ Each week, a new project will be added to this repository. Here's a brief overvi
 | Week | Project Title | Description | Technologies Used | Contribution |
 |------|---------------|-------------|-------------------| ------------ |
 | 1    | [01 - Summarize sentence with Gemeni-Pro](https://github.com/ksupasate/PraxisAI-Hub/blob/main/week-01/01_Summarize_sentence_with_Gemeni_Pro.ipynb) | Using Gemeni-Pro, generative ai api from google, to summarize news or article with text and picture. | Gemeni-Pro, PyTesseract | Supasate Vorathammathorn |
-| 1    | [01 - Text to Speech using GPT4](https://github.com/ksupasate/PraxisAI-Hub/blob/main/week-01/01_Text_to_Speech_using_GPT4.ipynb) | Brief description. | GPT4, tts by OpenAI | Thanyapisit Buaprakhong |
-| ...  | ...           | ...         | ...               |
+| 1    | [01 - Text to Speech using GPT4](https://github.com/ksupasate/PraxisAI-Hub/blob/main/week-01/01_Text_to_Speech_using_GPT4.ipynb) | Using tts, text-to-speech api from openai, to change text input to speech. | GPT4, tts by OpenAI | Thanyapisit Buaprakhong |
+| ...  | ...           | ...         | ...               | ... |
 
 *Note: Table will be updated weekly.*
 
