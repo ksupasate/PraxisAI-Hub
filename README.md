@@ -20,6 +20,7 @@ Each week, a new project will be added to this repository. Here's a brief overvi
 | 1    | [01 - Summarize sentence with Gemeni-Pro](https://github.com/ksupasate/PraxisAI-Hub/blob/main/week-01/01_Summarize_sentence_with_Gemeni_Pro.ipynb) | Using Gemeni-Pro, generative ai api from google, to summarize news or article with text and picture. | Gemeni-Pro, PyTesseract | Supasate Vorathammathorn |
 | 1    | [01 - Text to Speech using GPT4](https://github.com/ksupasate/PraxisAI-Hub/blob/main/week-01/01_Text_to_Speech_using_GPT4.ipynb) | Using tts, text-to-speech api from openai, to change text input to speech. | GPT4, tts by OpenAI | Thanyapisit Buaprakhong |
 | 2  | [02 - Dating App Matching Algorithm](https://github.com/ksupasate/PraxisAI-Hub/blob/main/week-02/02_DatingApp_MatchingAlgorithm.ipynb) | Using basic algorithm for creating dating app matching algorithm and using DALL-E for generating image         | Python               | Supasate Vorathammathorn |
+| 2  | [03 - Song Recommendation System using LLM](https://github.com/ksupasate/PraxisAI-Hub/blob/main/week-03/03_Song_Recommendation_System_with_LLM.ipynb) | Using LLM (Azure OpenAI and Gemeni Pro) for generate song recommendation from user's input        | Azure OpenAI, Gemeni-Pro            | Supasate Vorathammathorn |
 
 *Note: Table will be updated weekly.*
 
